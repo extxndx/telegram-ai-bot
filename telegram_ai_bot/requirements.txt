@@ -1,7 +1,8 @@
-python-telegram-bot==20.0
-openai
+python-telegram-bot==20.3
 torch
-torchvision
+transformers
+ftfy
+tqdm
+scipy
+numpy
 Pillow
-aiosqlite
-git+https://github.com/openai/CLIP.git
